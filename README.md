@@ -1,5 +1,3 @@
-# FPUT-Nonlinear-Dynamics
-Numerical simulation of the Fermi–Pasta–Ulam–Tsingou problem using Python and NumPy.
 # FPUT Nonlinear Dynamics
 
 A numerical investigation of the Fermi–Pasta–Ulam–Tsingou (FPUT) problem, exploring nonlinear dynamics and energy recurrence in a system of coupled particles.
